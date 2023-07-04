@@ -1,7 +1,9 @@
 {
   "index": "Introduction",
   "minecraft": "Minecraft",
+  "csgo": "CSGO",
   "left4dead2": "Left 4 Dead 2",
+  "desktop": "Bytebaked Owl",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
